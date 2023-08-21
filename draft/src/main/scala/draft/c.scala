@@ -1,0 +1,5 @@
+package draft
+
+object c {
+
+}

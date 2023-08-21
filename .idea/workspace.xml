@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25c9aae0-696f-4538-a4ef-99437d9f8fbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/recfun" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/project/CourseraStudent.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/project/MOOCSettings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/project/StudentTasks.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/project/buildSettings.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/src/main/scala/funsets/FunSets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/src/main/scala/funsets/FunSetsInterface.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/src/main/scala/funsets/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funsets/src/test/scala/funsets/FunSetSuite.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +51,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -56,7 +73,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nyoussef/Desktop/Workspace/formation.scala",
+    "last_opened_file_path": "/home/nyoussef/Desktop/Workspace/formation.scala/draft",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +82,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.main">
     <configuration name="main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="formation.scala.main" />
@@ -116,6 +138,10 @@
       <workItem from="1692137886317" duration="1718000" />
       <workItem from="1692210306346" duration="3574000" />
       <workItem from="1692299874503" duration="309000" />
+      <workItem from="1692308207098" duration="200000" />
+      <workItem from="1692313711029" duration="2075000" />
+      <workItem from="1692352734232" duration="31000" />
+      <workItem from="1692450259404" duration="118000" />
     </task>
     <servers />
   </component>
